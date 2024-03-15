@@ -1,0 +1,1 @@
+The final model used for complete the aim of the project is Random Forest implemented with scikit-learn. For the model selection phase we have used a cross validation implemented through a grid search also provided by scikit-learn; while the model assessment phase we have performed it through a hold out using a splitting of 80-20% of the original dataset ML-CUP22-TR.csv.
